@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>SINTA PKL - Cara Pendaftaran</title>
+    <title>CV Birudeun - Cara Pendaftaran</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width">
@@ -82,7 +82,7 @@
                         <i style="font-size: 48px" class="icon-envelope icon-large"></i>
                         <p> </p>
                         <h4>PEMESANAN</h4>
-                        <p>Pilih dinas yang terdapat kuota kosong dan isikan data pemesanan dengan lengkap dan sebenar benarnya.</p>
+                        <p>Pilih posisi yang terdapat kuota kosong dan isikan data pemesanan dengan lengkap dan sebenar benarnya.</p>
                     </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@
                         <i style="font-size: 48px" class="icon-desktop icon-large"></i>
                         <p> </p>
                         <h4>PROSES PENERIMAAN PKL</h4>
-                        <p>Proses ini dilakukan jika data pemesanan sudah lengkap dan proses akan dilakukan oleh admin dinas , calon peserta menunggu hasil seleksi maksimal 2 hari setelah memesan. </p>
+                        <p>Proses ini dilakukan jika data pemesanan sudah lengkap dan proses akan dilakukan oleh admin , calon peserta menunggu hasil seleksi maksimal 2 hari setelah memesan. </p>
                     </div>
                 </div>
                 <div class="span4">
@@ -101,7 +101,7 @@
                         <i style="font-size: 48px" class="icon-ban-circle icon-large"></i>
                         <p> </p>
                         <h4>PEMBATALAN</h4>
-                        <p>Dikarenakan Calon peserta PKL tidak bisa mendaftar ke 2 dinas sekaligus maka jika seandainya ingin pindah ke dinas lain harus melakukan proses pembatalan agar bisa pesan PKL di dinas lain . </p>
+                        <p>Dikarenakan Calon peserta PKL tidak bisa mendaftar ke 2 posisi sekaligus maka jika seandainya ingin pindah ke posisi lain harus melakukan proses pembatalan agar bisa pesan PKL di posisi lain . </p>
                     </div>
                 </div>
                 <div class="span4">
@@ -133,26 +133,23 @@
                     <ul class="unstyled address">
                         <li>
                             <i class="icon-envelope"></i>
-                            <strong>Email: </strong> <a href="mailto:hyldansurya@gmail.com">sintapkl@yahoo.com</a>
+                            <strong>Email: </strong> <a href="mailto:hyldansurya@gmail.com">Birudeun@gmail.com</a>
                         </li>
                         <li>
                             <i class="icon-phone"></i>
-                            <strong>WA Phone:</strong> 085536474469
+                            <strong>WA Phone:</strong> 085
                         </li>
                     </ul>
                 </div>
                 <!--End Contact Info-->
                 <!--Important Links-->
                 <div id="tweets" class="span3">
-                    <h4>DINAS PERKANTORAN TERPADU</h4>
+                    <h4>Alamat CV Birudeun Creative Agensi</h4>
                     <div>
                         <ul class="arrow">
-                            <li><a href="http://dispendukcapil.malangkota.go.id/">Dinas Kependudukan dan Pencatatan Sipil</a></li>
-                            <li><a href="http://dpmptsp.malangkota.go.id/bppt">Dinas Perizinan</a></li>
-                            <li><a href="https://disperin.malangkota.go.id/">Dinas Perindustrian</a></li>
-                            <li><a href="http://kominfo.malangkota.go.id/">Dinas Komunikasi dan Informatika</a></li>
-                            <li><a href="http://bppd.malangkota.go.id/">Dinas Pendapatan Daerah</a></li>
-                            <li><a href="https://disnaker.malangkota.go.id/">Dinas Tenaga Kerja</a></li>
+                            <li>
+                            Jalan Teluk Bayur Selatan (Sebelah Perumahan ARAYA)
+                            </li>
                         </ul>
                     </div>  
                 </div>
@@ -172,10 +169,7 @@
                     </div>
                 </div> -->
                 <!--End Links-->
-                <div class="span4">
-                    <h4>MAPS</h4>
-                    <iframe src="https://www.google.com/maps/d/embed?mid=1qD392IT-z8smstd_xIQan5qj_o4&hl=en" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-                </div>
+                
             </div>
             <!--/row-fluid-->
         </div>
@@ -188,7 +182,7 @@
         <div class="container">
             <div class="row-fluid">
                 <div class="span5 cp">
-                    &copy; 2019 <a target="_blank" href="http://www.domain.com/">Sinta PKL</a>. All Rights Reserved.
+                    &copy; 2020 <a target="_blank" href="">Magang CV Birudeun</a>. All Rights Reserved.
                 </div>
                 <div class="span6">
             

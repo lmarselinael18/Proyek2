@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>SINTA PKL - Profil</title>
+    <title>CV Birudeun - Profil</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width">
@@ -61,87 +61,12 @@
     <section id="about-us" class="container main">
         <div class="row-fluid">
             <div class="span6">
-                <h3>SINTA PKL</h3>
-                <p>Sistem Informasi ini dibuat untuk memudahkan calon peserta Praktek Kerja Lapangan (PKL) untuk melihat kuota ketersediaan peserta PKL pada divisi pada area Perkantoran Terpadu Malang sehingga mempermudah calon peserta PKL tanpa harus ke tempat divisi yang dituju secara langsung, memudahkan untuk pemesanan tempat PKL oleh calon peserta PKL dan memudahkan admin divisi untuk pengelolaan data calon peserta PKL dan peserta PKL.</p>
+                <h3>CV Birudeun</h3>
+                <p>Sistem Informasi ini dibuat untuk memudahkan calon peserta Praktek Kerja Lapangan (PKL) untuk melihat kuota ketersediaan peserta PKL pada divisi pada CV Birudeun sehingga mempermudah calon peserta PKL tanpa harus ke tempat divisi yang dituju secara langsung, memudahkan untuk pemesanan tempat PKL oleh calon peserta PKL dan memudahkan admin divisi untuk pengelolaan data calon peserta PKL dan peserta PKL.</p>
 
-                <p>Dalam sistem informasi ini calon peserta PKL dapat melihat kuota peserta PKL pada divisi dan bulan tertentu. Calon peserta PKL dapat mengisi form untuk memesan tempat divisi PKL dan bulan yang dipilih. Sebelum mengisi form, calon peserta PKL diharuskan untuk mendaftarkan data diri dan melengkapi persyaratan berupa uplad file gambar surat rekomendasi atau surat pengantar dari Badan Kesatuan Bangsa dan Politik (Bakesbangpol) [6]  untuk mendaftar. Di dalam sistem ini juga terdapat login untuk admin divisi untuk pengelolaan data peserta PKL disetiap divisinya. Sistem ini juga terdapat fitur untuk upload laporan akhir PKL jika ada peserta yang telah selesai melakukan PKL di setiap divisi.</p>
+                <p>Dalam sistem informasi ini calon peserta PKL dapat melihat kuota peserta PKL pada divisi dan bulan tertentu. Calon peserta PKL dapat mengisi form untuk memesan tempat divisi PKL dan bulan yang dipilih. Sebelum mengisi form, calon peserta PKL diharuskan untuk mendaftarkan data diri dan melengkapi persyaratan berupa uplad file gambar surat rekomendasi atau surat pengantar untuk mendaftar. Di dalam sistem ini juga terdapat login untuk admin divisi untuk pengelolaan data peserta PKL disetiap divisinya. Sistem ini juga terdapat fitur untuk upload laporan akhir PKL jika ada peserta yang telah selesai melakukan PKL di setiap divisi.</p>
             </div>
-            <div class="span6">
-                <h3>Dinas di Perkantoran Terpadu</h3>
-                <div class="accordion" id="accordion2">
-                    <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                                Dinas Kependudukan dan Pencatatan Sipil
-                            </a>
-                        </div>
-                        <div id="collapseOne" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                            <p>Dinas Kependudukan dan Pencatatan Sipil bertipe B, menyelenggarakan urusan pemerintahan bidang administrasi kependudukan dan pencatatan sipil.<a target="_blank" href="http://dispendukcapil.malangkota.go.id/" title="dispenduk"> Lebih lengkapnya </a></p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-                            Dinas Perizinan 
-                            </a>
-                        </div>
-                        <div id="collapseTwo" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                            <p> Dinas Perizinan menyelenggarakan urusan Penanaman modal dan perizinan industri.<a target="_blank" href="http://http://dpmptsp.malangkota.go.id/bppt/" title="disperin"> Lebih lengkapnya </a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-                            Dinas Perindustrian
-                            </a>
-                        </div>
-                        <div id="collapseThree" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                            <p> Dinas Perindustrian merupakan lembaga bertipe C yang menyelenggarakan urusan pemerintahan bidang perindustrian.<a target="_blank" href="http://http://dpmptsp.malangkota.go.id/bppt/" title="disperin"> Lebih lengkapnya </a></p>
-                            </div>
-                        </div>
-                    </div>
-                      <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
-                            Dinas Komunikasi dan Informatika
-                            </a>
-                        </div>
-                        <div id="collapseFour" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                            <p>Dinas Komunikasi dan Informatika (KOMINFO) Kota Malang merupakan Satuan Kerja Perangkat Daerah baru, yang dibentuk untuk memenuhi ketentuan Peraturan Pemerintah nomor: 41 Tahun 2007 tentang Organisasi Perangkat Daerah serta memperhatikan kebutuhan pelayanan masyarakat sebagaimana hasil analisa Tim Analisis Jabatan dan Pengukuran Beban Kerja dalam rangka pengembangan dan pengelolaan Teknologi Informasi dan Komunikasi, maka dibentuklah Dinas KOMINFO Kota Malang yang merupakan penggabungan Kantor Pengolahan Data Elektronik, Bidang Pos dan Telekomunikasi pada Dinas Perhubungan, Bidang Komunikasi dan Bidang Informasi pada Dinas Pariwisata, Informasi dan Komunikasi Kota Malang.<a target="_blank" href="http://kominfo.malangkota.go.id/" title="kominfo"> Lebih lengkapnya </a></p>
-                            </div>
-                        </div>
-                    </div>  <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
-                            Dinas Pendapatan Daerah
-                            </a>
-                        </div>
-                        <div id="collapseFive" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                           <p>Dinas yang memiliki tugas pokok menyusun dan melaksanakan kebijakan Daerah di bidang pemungutan Pajak Daerah.<a target="_blank" href="http://bppd.malangkota.go.id/" title="dispenda"> Lebih lengkapnya </a></p>
-                            </div>
-                        </div>
-                    </div>  <div class="accordion-group">
-                        <div class="accordion-heading">
-                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-                            Dinas Tenaga Kerja
-                            </a>
-                        </div>
-                        <div id="collapseSix" class="accordion-body collapse">
-                            <div class="accordion-inner">
-                           <p>Dinas Ketenagakerjaan dan Transmigrasi Kota Malang mempunyai tugas pokok dan fungsi melaksanakan sebagian urusan rumah tangga daerah di bidang Ketenagakerjaan dan Transmigrasi yang meliputi perencanaan dan pelaksanaan ketenagakerjaan serta pengendaliannya sesuai dengan kebijaksanaan Walikota.<a target="_blank" href="https://disnaker.malangkota.go.id/" title="dispenda"> Lebih lengkapnya </a></p> 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
         </div>
         <hr>
         <div class="row-fluid">
@@ -155,8 +80,8 @@
                 </div>
             </div> -->
             <div class="span6">
-                <h2>Perkantoran Terpadu Kota Malang</h2>
-                <p>Perkantoran Terpadu adalah pusat pelayanan publik Kota Malang. Dimana seluruh pelayanan Publik Kota Malang terpusat disana untuk mengurus perijinan dan sebagainya. Cukup disatu tempat dan urusan tersebut cepat terselesaikan. Karena fungsinya adalah sebagai pusat layanan satu atap terpadu.[1].Banyak nya divisi pada area Perkantoran Terpadu Malang sehingga membuat tempat tersebut menjadi tujuan untuk kalangan siswa dan mahasiswa untuk melakukan PKL.</p>
+                <h2>CV Birudeun Creative Agency</h2>
+                <h3 class="gap">Jl.Teluk Bayur Selatan</h3>
             </div>
         </div>
         <hr>
@@ -212,26 +137,23 @@
                     <ul class="unstyled address">
                         <li>
                             <i class="icon-envelope"></i>
-                            <strong>Email: </strong> <a href="mailto:hyldansurya@gmail.com">sintapkl@yahoo.com</a>
+                            <strong>Email: </strong> <a href="">Birudeun@gmail.com</a>
                         </li> 
                         <li>
                             <i class="icon-phone"></i>
-                            <strong>WA Phone:</strong> 085536474469
+                            <strong>WA Phone:</strong> 085
                         </li>
                     </ul>
                 </div>
                 <!--End Contact Info-->
                 <!--Important Links-->
                 <div id="tweets" class="span3">
-                    <h4>DINAS PERKANTORAN TERPADU</h4>
+                    <h4>Alamat CV Birudeun Creative Agensi</h4>
                     <div>
                         <ul class="arrow">
-                            <li><a target="_blank" href="http://dispendukcapil.malangkota.go.id/">Dinas Kependudukan dan Pencatatan Sipil</a></li>
-                            <li><a target="_blank" href="http://dpmptsp.malangkota.go.id/bppt">Dinas Perizinan</a></li>
-                            <li><a target="_blank" href="https://disperin.malangkota.go.id/">Dinas Perindustrian</a></li>
-                            <li><a target="_blank" href="http://kominfo.malangkota.go.id/">Dinas Komunikasi dan Informatika</a></li>
-                            <li><a target="_blank" href="http://bppd.malangkota.go.id/">Dinas Pendapatan Daerah</a></li>
-                            <li><a target="_blank" href="https://disnaker.malangkota.go.id/">Dinas Tenaga Kerja</a></li>
+                            <li>
+                            Jalan Teluk Bayur Selatan (Sebelah Perumahan ARAYA)
+                            </li>
                         </ul>
                     </div>  
                 </div>
@@ -251,10 +173,7 @@
                     </div>
                 </div> -->
                 <!--End Links-->
-                <div class="span4">
-                    <h4>MAPS</h4>
-                    <iframe src="https://www.google.com/maps/d/embed?mid=1qD392IT-z8smstd_xIQan5qj_o4&hl=en" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-                </div>
+                
             </div>
             <!--/row-fluid-->
         </div>
@@ -267,7 +186,7 @@
         <div class="container">
             <div class="row-fluid">
                 <div class="span5 cp">
-                    &copy; 2019 <a target="_blank" href="http://www.domain.com/">Sinta PKL</a>. All Rights Reserved.
+                    &copy; 2020 <a target="_blank" href="">Magang CV Birudeun</a>. All Rights Reserved.
                 </div>
                 <div class="span6">
                     <!-- <ul class="social pull-right">
