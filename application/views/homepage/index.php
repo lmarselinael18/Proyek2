@@ -34,10 +34,10 @@
                 <a id="Capture" class="pull-left"></a>
                 <div class="nav-collapse collapse pull-right">
                     <ul class="nav">
-                        <li class="active"><a href="<?=base_url()?>">BERANDA</a></li>
-                        <li><a href="<?=base_url()?>">PROFIL</a></li>
-                        <li><a href="<?=base_url()?>">CARA PEMESANAN</a></li>
-                        <li><a href="<?=base_url()?>">LOGIN</a></li>
+                        <li class="active"><a href="<?=base_url()?>index.php/homepage/index">BERANDA</a></li>
+                        <li><a href="<?=base_url()?>index.php/homepage/loadprofil">PROFIL</a></li>
+                        <li><a href="<?=base_url()?>index.php/homepage/loadcarapemesanan">CARA PEMESANAN</a></li>
+                        <li><a href="<?=base_url()?>index.php/controllerlogin/index">LOGIN</a></li>
                     </ul>        
                 </div>
             </div>

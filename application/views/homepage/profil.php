@@ -62,9 +62,17 @@
         <div class="row-fluid">
             <div class="span6">
                 <h3>CV Birudeun</h3>
-                <p>Sistem Informasi ini dibuat untuk memudahkan calon peserta Praktek Kerja Lapangan (PKL) untuk melihat kuota ketersediaan peserta PKL pada divisi pada CV Birudeun sehingga mempermudah calon peserta PKL tanpa harus ke tempat divisi yang dituju secara langsung, memudahkan untuk pemesanan tempat PKL oleh calon peserta PKL dan memudahkan admin divisi untuk pengelolaan data calon peserta PKL dan peserta PKL.</p>
+                <p>Sistem Informasi ini dibuat untuk memudahkan calon peserta magang bagi mahasiswa untuk melihat kuota ketersediaan peserta magang pada CV Birudeun 
+                sehingga mempermudah calon peserta magang tanpa harus ke tempat perusahaan yang dituju secara langsung,
+                memudahkan untuk pemesanan tempat magang oleh calon peserta magang dan memudahkan admin perusahaan untuk 
+                pengelolaan data calon peserta magang dan peserta magang.</p>
 
-                <p>Dalam sistem informasi ini calon peserta PKL dapat melihat kuota peserta PKL pada divisi dan bulan tertentu. Calon peserta PKL dapat mengisi form untuk memesan tempat divisi PKL dan bulan yang dipilih. Sebelum mengisi form, calon peserta PKL diharuskan untuk mendaftarkan data diri dan melengkapi persyaratan berupa uplad file gambar surat rekomendasi atau surat pengantar untuk mendaftar. Di dalam sistem ini juga terdapat login untuk admin divisi untuk pengelolaan data peserta PKL disetiap divisinya. Sistem ini juga terdapat fitur untuk upload laporan akhir PKL jika ada peserta yang telah selesai melakukan PKL di setiap divisi.</p>
+                <p>Dalam sistem informasi ini calon peserta magang dapat melihat kuota peserta magang pada perusahaan dan 
+                bulan tertentu. Calon peserta magang dapat mengisi form untuk memesan tempat magang dan bulan yang dipilih. 
+                Sebelum mengisi form, calon peserta magang diharuskan untuk mendaftarkan data diri dan melengkapi persyaratan 
+                berupa upload file surat pengantar dari universitas untuk mendaftar. Di dalam sistem ini juga terdapat login 
+                untuk admin perusahaan untuk pengelolaan data peserta magang. Sistem ini juga terdapat fitur untuk upload laporan akhir
+                magang jika ada peserta yang telah selesai melakukan magang di setiap perusahaan.</p>
             </div>
            
         </div>

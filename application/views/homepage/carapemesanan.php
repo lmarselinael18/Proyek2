@@ -92,7 +92,7 @@
                     <div class="center">
                         <i style="font-size: 48px" class="icon-desktop icon-large"></i>
                         <p> </p>
-                        <h4>PROSES PENERIMAAN PKL</h4>
+                        <h4>PROSES PENERIMAAN MAGANG</h4>
                         <p>Proses ini dilakukan jika data pemesanan sudah lengkap dan proses akan dilakukan oleh admin , calon peserta menunggu hasil seleksi maksimal 2 hari setelah memesan. </p>
                     </div>
                 </div>
@@ -101,15 +101,15 @@
                         <i style="font-size: 48px" class="icon-ban-circle icon-large"></i>
                         <p> </p>
                         <h4>PEMBATALAN</h4>
-                        <p>Dikarenakan Calon peserta PKL tidak bisa mendaftar ke 2 posisi sekaligus maka jika seandainya ingin pindah ke posisi lain harus melakukan proses pembatalan agar bisa pesan PKL di posisi lain . </p>
+                        <p>Dikarenakan Calon peserta Magang tidak bisa mendaftar ke 2 posisi sekaligus maka jika seandainya ingin pindah ke posisi lain harus melakukan proses pembatalan agar bisa pesan Magang di posisi lain . </p>
                     </div>
                 </div>
                 <div class="span4">
                     <div class="center">
                         <i style="font-size: 48px" class="icon-upload-alt icon-large"></i>
                         <p> </p>
-                        <h4>UPLOAD LAPORAN PKL</h4>
-                        <p>Proses ini dapat dilakukan ketika calon peserta PKL sudah diterima , dan setelah kegiatan PKL ketua peserta PKL diwajibkan untuk mengupload laporan akhir PKL ke tempat yang sudah disediakan. </p>
+                        <h4>UPLOAD LAPORAN MAGANG</h4>
+                        <p>Proses ini dapat dilakukan ketika calon peserta Magang sudah diterima , dan setelah kegiatan Magang ketua peserta magang diwajibkan untuk mengupload laporan akhir Magang ke tempat yang sudah disediakan. </p>
                     </div>
                 </div>
             </div>
