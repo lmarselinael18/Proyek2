@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="container">
                 <div class="signin-content">
                     <div class="signin-image">
-                        <figure><a href="<?php echo site_url('homepage/index/'); ?>"><img src="<?php echo base_url(); ?>assets/login/images/new/logologin.png"  alt="sing up image"></a></figure>
+                        <figure><a href="<?php echo site_url('homepage/index/'); ?>"></a></figure>
                         <a href="<?php echo site_url('register/index/'); ?>" class="signup-image-link">Create an account</a>
                     </div>
 
