@@ -58,7 +58,6 @@ class Controllerlogin extends CI_Controller {
 	        	//redirect('writer/index');
 	
 	        	//jika bernilai TRUE maka alihkan halaman sesuai dengan jenisuser nya
-	        	
 				if($this->session->userdata('level') == 'admin')
 	        	{
 	          		redirect('admin/index');
