@@ -66,10 +66,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                            
                         </form>
                     </div>
-                    <div class="signup-image">
-                        <figure><img src="<?php echo base_url(); ?>assets/login/images/new/logologin.png" alt="sing up image"></figure>
-                        
-                    </div>
+                    
                 </div>
             </div>
         </section>

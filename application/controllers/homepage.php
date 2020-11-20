@@ -7,7 +7,7 @@
 		{
 			parent::__construct();
 			$this->load->helper('url','form'); 
-			// $this->load->database();
+			$this->load->database();
 			$this->load->model('writermodel');
 			// $this->load->library('form_validation');
 			// $this->load->library('session');
