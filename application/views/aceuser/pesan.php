@@ -89,7 +89,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 						<div class="page-header"> 
 							<h1>
-								Pemesan Tempat PKL
+								Pemesan Tempat Magang
 								
 							</h1>
 						</div><!-- /.page-header -->
