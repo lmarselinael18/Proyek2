@@ -19,6 +19,37 @@
     <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/homepage/images/Capture.jpg">
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+    <script type="text/javascript">
+
+$(document).ready(function() {
+    $('#Jumlah_peserta').on('change', (function() {
+        var id_divisi = $('#divisi').val(),
+            tgl_mulai = $('#tgl_mulai').val(),
+            tgl_selesai = $('#tgl_selesai').val(),
+            jumlahpkl = $('#Jumlah_peserta').val();
+
+        $.ajax({
+            method: 'GET',
+            url: "<?php echo site_url('writer/hitung_sisa2/'); ?>" + id_divisi + "/" + tgl_mulai + "/" + tgl_selesai + "/" + jumlahpkl ,
+            processData: false,
+            dataType:"json",
+            success: function(response) {
+                 $("#sisakuota").html("");
+                if(response[0].value === "Kuota Penuh"){
+                    $("#sisakuota").html("<b>Kuota Penuh<b>");
+                    response.map(d=>{
+                     $("#sisakuota").append("<br><b>Bulan "+d.bulannama+"</b><br/>Pendaftar<input type='text' class='col-xs-10 col-sm-3' readonly value='"+d.pendaftar+"'/>")
+                 })
+                }else{
+               response.map(d=>{
+                 $("#sisakuota").append("<br><b>Bulan "+d.bulannama+"</b><br/>Kuota <input type='text' class='col-xs-10 col-sm-3' readonly value='"+d.value+"'/>Pendaftar <input type='text' class='col-xs-10 col-sm-3' readonly value='"+d.pendaftar+"'/>")
+               })
+                }
+            }
+        })
+    }))
+})
+</script>
 </head>
 
 <body>
@@ -69,7 +100,7 @@
                         <div class="container">
                             <img class="pull-right" src="<?php echo base_url(); ?>" alt="" />
                             <h2>Menerimaan Mahasiswa Magang Sebagai</h2>
-                            <h3 class="gap">Copy Writer, Desain Grafis, Percetakan, Social Media officer</h3>
+                            <h3 class="gap">Copy Writer, Desain Grafis, Percetakan</h3>
                             <a class="btn btn-large btn-transparent" href="<?=base_url()?>">View More</a>
                         </div>
                     </div>
@@ -92,20 +123,60 @@
         <div class="container">
             <div class="row-fluid">
 
+                <div class="span12">
+                    <label class="col-sm-12 control-label no-padding-right" for="form-field-1"><h2>Pilih tujuan untuk cek kuota Magang</h2></label>
                     <div class="form-group">
-                    <b><h4>Siap Membantu anda melihat kuota PKL dengan Mudah , Cepat dan Praktis</h4></b>
+                        <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Tujuan</label>
+                        <div class="col-sm-9">
+                            <select name="id_divisi" id="divisi" required >
+                                <option value="0" >-- Pilih Tujuan --</option>
+                                <?php foreach($divisi as $key):?> 
+                                <option value="<?php echo $key['id_divisi'];?>"><?php echo $key['nama_divisi'];?></option>
+                                <?php endforeach;?>
+                            </select>
+                            &nbsp;
+                        </div>
+                    </div>
+
+                    <div class="form-group">
                         <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Tanggal Mulai</label>
 
                         <div class="col-sm-5">
                             <input type="date" id="tgl_mulai" name="tgl_mulai" class="col-xs-10 col-sm-3" min="<?php echo date('Y-m-d', time()); ?>" required />
-                            <label class="col-xs-10 col-sm-3"></label>
+                            <label class="col-xs-10 col-sm-3">* Minimal 1 bulan pemesanan</label>
                         </div>
+
+
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Tanggal Selesai</label>
+
+                        <div class="col-sm-5">
+                            <input type="date" id="tgl_selesai" name="tgl_selesai" class="col-xs-10 col-sm-3" min="<?php echo date('Y-m-d', time()); ?>" required />
+                            <label class="col-xs-10 col-sm-3">* Maksimal 1 tahun pemesanan</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4">
+                        <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Jumlah Peserta </label>
+                            <input type="text" min="1" step="1" id="Jumlah_peserta" class="col-xs-10 col-sm-3" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4">
+                        <label id="sisakuota" class="col-sm-3  control-label no-padding-right" for="form-field-1"> </label>
+                           
+                        </div>
+                    </div>
 
                 </div>
 
                 <div class="span9">
                 <br>
-                   
+                    <b><h4>Siap Membantu anda melihat kuota Magang dengan Mudah , Cepat dan Praktis</h4></b>
                     <p class="no-margin"></p>
                 </div>
                 <div class="span3">
@@ -131,7 +202,7 @@
                         </li>
                         <li>
                             <i class="icon-phone"></i>
-                            <strong>WA Phone:</strong> 085
+                            <strong>WA Phone:</strong> 085755966780
                         </li>
                     </ul>
                 </div>
