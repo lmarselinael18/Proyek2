@@ -194,8 +194,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="footer-inner">
 					<div class="footer-content">
 						<span class="bigger-120">
-							<span class="blue bolder">SINTA-PKL</span>
-							Website &copy; 2019
+							<span class="blue bolder">BIRUDEUN</span>
+							Website &copy; 2020
 						</span>
 
 						&nbsp; &nbsp;

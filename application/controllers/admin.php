@@ -43,7 +43,7 @@
 		{
 		    $this->load->library('Mypdf');
 		    $datauser['user']=$this->adminmodel->readuser($this->session->userdata('id_divisi'));
-		    $this->mypdf->generate('aceadmin/laporan', $datauser, 'laporan-data PKL', 'A4', 'landscape');
+		    $this->mypdf->generate('aceadmin/laporan', $datauser, 'laporan-data Magang', 'A4', 'landscape');
 		} 		
 
 		public function pesan()

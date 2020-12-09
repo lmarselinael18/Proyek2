@@ -62,7 +62,7 @@ $(document).ready(function() {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </a>
-                <a id="Capture" class="pull-left"></a>
+                <a id="logo2" class="pull-left"></a>
                 <div class="nav-collapse collapse pull-right">
                     <ul class="nav">
                         <li class="active"><a href="<?=base_url()?>index.php/homepage/index">BERANDA</a></li>
