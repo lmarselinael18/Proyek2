@@ -144,7 +144,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<div class="modal-dialog">
 								<div class="modal-content">
 									<div class="modal-title" align="center">
-										<h2>EDIT KUOTA PKL</h2> 
+										<h2>EDIT KUOTA MAGANG</h2> 
 									</div> 
 									<form action="<?php echo site_url(); ?>/admin/editdivisi/<?php echo $key['id_divisi']; ?>" enctype="multipart/form-data" method="post">
 									<div class="modal-body">
